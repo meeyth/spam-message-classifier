@@ -10,6 +10,7 @@ st.set_page_config(page_title="SMC", layout="wide")
 
 # Run the following line only once
 nltk.download('punkt')
+nltk.download('stopwords')
 
 ps = PorterStemmer()
 
