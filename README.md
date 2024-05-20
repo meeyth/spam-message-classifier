@@ -1,4 +1,9 @@
 # Message Spam Classifier Web App
+## Preview
+
+![Preview](preview.png)
+
+[Website](https://spam-message-classifier-q373.onrender.com/)
 
 This is a web application built using Streamlit, which allows users to classify messages as spam or not spam (ham). The application utilizes a machine learning model trained on the NLTK, scikit-learn, NumPy, and Pandas libraries to perform the classification.
 
@@ -24,9 +29,3 @@ You can install these dependencies using the following command:
 ```bash
 pip install streamlit streamlit_lottie nltk scikit-learn numpy pandas
 ```
-
-## Preview
-
-![Preview](preview.png)
-
-[Website](https://spam-message-classifier-q373.onrender.com/)
